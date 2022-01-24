@@ -35,7 +35,7 @@ First clone down this repository. You will need node and npm globally installed 
 To run the server go to the server directory and type the following command.
 
 ```
-npm install & npm start
+$ npm install & npm start
 ```
 
 this will let the server running.
@@ -43,13 +43,13 @@ this will let the server running.
 To run the client go to the client directory and type the following command.
 
 ```
-npm install & npm start
+$ npm install & npm start
 ```
 
 now go to your favorite browser and on the search bar type
 
 ```
-locahost:3000
+$ locahost:3000
 ```
 
 This will let your app start running.
